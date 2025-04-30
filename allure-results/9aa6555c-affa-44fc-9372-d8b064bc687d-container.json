@@ -1,0 +1,1 @@
+{"uuid":"9aa6555c-affa-44fc-9372-d8b064bc687d","name":"Assignment-Selenium-TestNG","children":["5b97a708-79ae-4d26-bfa2-7140172840f4"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1745962735118,"stop":1745962736952}],"afters":[],"start":1745962735104,"stop":1745962738268}
