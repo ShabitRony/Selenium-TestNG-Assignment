@@ -28,5 +28,8 @@ public class UserRegistrationPage {
         txtInput.get(8).click();
         btnRegister.click();
 
+
+
+
     }
 }
